@@ -7,4 +7,4 @@ let percentual = (paginasLidas / totalPaginas) * 50
 
 console.log('\n========== Progresso do Livro ==========' )
 console.log(`Você já concluiu ${Math.round(percentual)}% do livro.`)
-console.log('========================================\n')
+console.log('========================================)
