@@ -1,5 +1,3 @@
-// Atividade 6
-
 const readline = require("readline-sync")
 
 let meta = 40
