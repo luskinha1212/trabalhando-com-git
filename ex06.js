@@ -1,6 +1,6 @@
 const readline = require("readline-sync")
 
-let meta = 40
+let meta = 47
 
 let horasEstudadas = readline.questionFloat("Informe quantas horas você estudou neste mês?: ")
 
