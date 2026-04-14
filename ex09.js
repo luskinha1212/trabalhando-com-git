@@ -2,7 +2,7 @@
 
 const readline = require(`readline-sync`)
 
-let valorFreteGratis = 100
+let valorFreteGratis = 54
 
 let valorCompra = readline.questionFloat("Informe o valor da compra: R$ ")
 
