@@ -1,5 +1,3 @@
-// Atividade 4
-
 const readline = require('readline-sync')
 
 let meta = 10000
