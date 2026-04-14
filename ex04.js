@@ -1,6 +1,6 @@
 const readline = require('readline-sync')
 
-let meta = 10000
+let meta = 500
 let passos = readline.question("Quantos passos você deu hoje? ")
 
 let diferenca = meta - passos
