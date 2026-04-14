@@ -1,5 +1,3 @@
-// Atividade 2 
-
 const readline = require('readline-sync');
 
 let nome = readline.question("Digite seu nome: ");
