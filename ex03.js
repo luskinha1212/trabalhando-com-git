@@ -1,5 +1,3 @@
-// Atividade 3
-
 const readline = require('readline-sync')
 
 let nickname = readline.question("Nome (nickname) do jogador: ")
