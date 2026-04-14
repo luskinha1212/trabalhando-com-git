@@ -8,4 +8,4 @@ let percentual = (quantidadeBaixada / tamanhoTotal) * 100
 
 console.log('\n========== Progresso do Download ==========' )
 console.log(`Você já baixou ${Math.round(percentual)}% do arquivo.`)
-console.log('========================================\n')
+console.log('========================================)
