@@ -1,7 +1,7 @@
 
 const readline = require("readline-sync")
 
-let mediaAprovacao = 7
+let mediaAprovacao = 5
 
 let notaFinal = readline.questionFloat("Informe a nota final do aluno: ")
 
