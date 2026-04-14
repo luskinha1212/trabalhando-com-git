@@ -1,8 +1,8 @@
 const readline = require('readline-sync')
 
-let nickname = readline.question("Nome (nickname) do jogador: ")
-let jogoFavorito = readline.question("Jogo favorito: ")
-let pontuacaoAtual = readline.question("Pontuação atual: ")
+let nickname = readline.question("nome (nickname) do player: ")
+let jogoFavorito = readline.question("jogo favorito: ")
+let pontuacaoAtual = readline.question("pontuação atual: ")
 
 console.log("\n========== Perfil do Jogador ==========\n")
 console.log(`Nickname: ${nickname}`)
